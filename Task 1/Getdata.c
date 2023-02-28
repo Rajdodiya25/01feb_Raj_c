@@ -3,7 +3,7 @@
 void main()
 {
 
- // int no = 100:
+ // int no = 300:
  int no;
  printf("Enter the value of no:");
  scanf("%d",&no);
